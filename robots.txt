@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://morozyuk-d-p.github.io/sitemap.xml
