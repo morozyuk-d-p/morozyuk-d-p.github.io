@@ -4,8 +4,13 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/morozdan2003/'
+-
+  type: vk
+  icon: 'fab fa-vk'
+  url:  'https://vk.com/morozyuk_dp'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -28,3 +33,6 @@
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+# -
+#  type: twitter
+#  icon: 'fab fa-twitter'
