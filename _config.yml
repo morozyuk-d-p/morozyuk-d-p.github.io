@@ -23,10 +23,10 @@ timezone: Europe/Moscow
 
 title: Сайт Морозюк Даниила            # the main title
 
-tagline:                               # it will display as the sub-title
+tagline: Веб-разработчик и студент     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  
+  Морозюк Даниил - веб-разработчик, студент ЮРГПУ НПИ
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://morozyuk-d-p.github.io'
@@ -34,8 +34,8 @@ url: 'https://morozyuk-d-p.github.io'
 github:
   username: morozyuk-d-p               # change to your github username
 
-twitter:
-  username:                            # change to your twitter username
+# twitter:
+#  username:                            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -45,10 +45,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    # - https://github.com/username       # change to your github homepage
+    - https://github.com/morozyuk-d-p     # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://vk.com/morozyuk_dp
+    - https://www.linkedin.com/in/morozdan2003/
 
 google_site_verification:               # fill in to your verification string
 
@@ -86,7 +86,7 @@ img_cdn:
 avatar: https://gravatar.com/avatar/bef27e87ce5d907ef1c429a1f749ccef?s=100
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 comments:
   active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
